@@ -1,14 +1,17 @@
-### Hi there 👋, I'm SaJeeb Ahmed
-#### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://github.com/sajeeb-ahmeed/sajeeb-ahmeed/blob/default/my%20pic.jpg)
+<h1 align="center">Hi there 👋, I'm SaJeeb Ahmed</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 
 
-LEARNER 
+<p align="left"> <a href="https://twitter.com/j_eeb" target="blank"><img src="https://img.shields.io/twitter/follow/j_eeb?logo=twitter&style=for-the-badge" alt="Sajeeb" /></a> </p>
+<h3> Learner From Bangladesh </h3>
 
-Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+<h6>Skills:  REACT / JS / HTML / CSS </h6>
 
+- 💬 Ask me about **JavaScript.**
+ - 📫 How to reach me **sajeeb.web@.gmail.com**
+
+<h3>Connect with me: </h3>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sajeeb-ahmeed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sajeeb-ahmed-03477b219/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/sajeebahmed21/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/11_fida/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@j_eeb)  
 
