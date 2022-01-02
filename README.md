@@ -3,13 +3,10 @@
 
 <p align="left"> <a href="https://twitter.com/j_eeb" target="blank"><img src="https://img.shields.io/twitter/follow/j_eeb?logo=twitter&style=for-the-badge" alt="j_eeb" /></a> </p>
 
-- 🔭 I’m currently working on [cebacbd](http://www.cebacbd.com/)
+
 
 - 🌱 I’m currently learning Frontend **4 1. Html 5 2. CSS 3 3. JavaScript 4. React 5. Vue 6. TypeScript 7. Angular 8. JQuery**
 
-- 👨‍💻 All of my projects are available at [https://sajeeb-ahmeed.github.io/cebacbd_web/ , https://www.pos.cebacbd.com/](https://sajeeb-ahmeed.github.io/cebacbd_web/ , https://www.pos.cebacbd.com/)
-
-- 📝 I regularly write articles on [https://www.pos.cebacbd.com/](https://www.pos.cebacbd.com/)
 
 - 💬 Ask me about **JavaScript**
 
