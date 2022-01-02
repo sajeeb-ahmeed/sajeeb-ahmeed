@@ -6,7 +6,7 @@
 <h3> Learner From Bangladesh </h3>
 
 
-<h6>Skills: JS / HTML / CSS </h6>
+<h3>Skills: JS / HTML / CSS </h3>
 
 - 💬 Ask me about **JavaScript.**
  - 📫 How to reach me **sajeeb.web@.gmail.com**
