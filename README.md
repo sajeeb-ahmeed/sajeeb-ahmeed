@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/j_eeb" target="blank"><img src="https://img.shields.io/twitter/follow/j_eeb?logo=twitter&style=for-the-badge" alt="Sajeeb" /></a> </p>
 <h3> Learner From Bangladesh </h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/cxq48pJ/smartmockups-kxyt84bp.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
+<img align="right" alt="Coding" width="600" src="https://i.ibb.co/gvhLmCH/undraw-Freelancer-re-irh4.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
 
 
 <h3>Skills: JS / HTML / CSS </h3>
