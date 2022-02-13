@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="600" src="https://i.ibb.co/gvhLmCH/undraw-Freelancer-re-irh4.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
 
 
-<h3>Skills: JS / HTML / CSS </h3>
+<h3>Skills: JS </h3>
 
 - 💬 Ask me about **JavaScript.**
  - 📫 How to reach me **sajeeb.web@.gmail.com**
