@@ -3,14 +3,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeeb-ahmeed&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebahmed" /> </p>
 <p align="left"> <a href="https://twitter.com/j_eeb" target="blank"><img src="https://img.shields.io/twitter/follow/j_eeb?logo=twitter&style=for-the-badge" alt="Sajeeb" /></a> </p>
-<h3> Learner From Bangladesh </h3>
+<!-- <h3> Learner From Bangladesh </h3> -->
 
-<img align="right" alt="Coding" width="600" src="https://i.ibb.co/gvhLmCH/undraw-Freelancer-re-irh4.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
+<img align="right" alt="Coding" width="550" src="https://i.ibb.co/gvhLmCH/undraw-Freelancer-re-irh4.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
 
 
-<h3>  JS </h3>
-
-- 💬 Ask me about **JavaScript.**
+<h3> Language</h3>
+ 
+<div style="display: inline_block">
+  <img align="center" alt="Rafael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafael-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rafael-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Rafael-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Rafael-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
+ <br/>  
+ 
+- 💬 Ask me about  **JavaScript.**
  - 📫 How to reach me **sajeeb.web@.gmail.com**
 
 
