@@ -39,7 +39,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-ahmeed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeeb-ahmeed&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeeb-ahmeed&show_icons=true)   -->
+<div >
+  <a href="https://github.com/sajeeb-ahmeed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajeeb-ahmeed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajeeb-ahmeed)  
 
