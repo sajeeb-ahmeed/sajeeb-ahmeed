@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajeeb-ahmeed&label=Profile%20views&color=0e75b6&style=flat" alt="sajeebahmed" /> </p>
-<p align="left"> <a href="https://twitter.com/j_eeb" target="blank"><img src="https://img.shields.io/twitter/follow/j_eeb?logo=twitter&style=for-the-badge" alt="Sajeeb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/j_eeb" target="blank"><img src="https://img.shields.io/twitter/follow/j_eeb?logo=twitter&style=for-the-badge" alt="Sajeeb" /></a </p>
 <!-- <h3> Learner From Bangladesh </h3> -->
 
 <img align="right" alt="Coding" width="500" src="https://i.ibb.co/gvhLmCH/undraw-Freelancer-re-irh4.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
