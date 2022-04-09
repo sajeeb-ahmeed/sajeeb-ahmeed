@@ -36,7 +36,7 @@
  
 <h5> language </h5>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-ahmeed)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajeeb-ahmeed)](https://github.com/sajeeb-ahmeed)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajeeb-ahmeed&show_icons=true)   -->
 <div >
