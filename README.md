@@ -9,12 +9,18 @@
 <img align="right" alt="Coding" width="500" src="https://i.ibb.co/gvhLmCH/undraw-Freelancer-re-irh4.png" alt="sajeeb-ahmeed-kxyt84bp" border="0">
 
  
-- 💬 Ask me about  **JavaScript.**
- - 📫 How to reach me **sajeeb.web@.gmail.com**
+🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
+
+💬 Ask me about **Web Solutions**
+
+📫 How to reach me: sajeeb.web@gmail.com
+
+⚡ Fun fact **I Think i'm funny too :)**
 
 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+ <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 <h3>Connect with me: </h3>
 
